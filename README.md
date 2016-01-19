@@ -3,11 +3,44 @@ The main repository for the 10 week iOS 401 Course.
 
 `Details:`
 
->This is the course layout for the 401 iOS Course at Code Fellows.
+>We’re delighted to have you as a member of our Code 401: Advanced Software Development in iOS course. It'll be a lot of work and a lot of fun.
+In this course you will study professional techniques and practices as you advance your skills in iOS development. This course includes professional development curriculum to get you ready for your job search, plus job search assistance after graduation.This is the course layout for the 401 iOS Course at Code Fellows.
 The first 4 weeks of the course we'll be studying Swift.
 This will be followed by a week long project built by students and written in Swift.
 The next 4 weeks we'll be studying Objective-C.
 This will be followed with a week long project build by student teams and written in Objective-C.
+
+##Instructional Staff
+* Michael Babiy, Lead Instructor, 
+* Adam Wallraff, Assistant Instructor
+
+###At the end of this course, you will be able to:
+
+* Create mobile apps in Objective-C and Swift, Apple's new programming language.
+* Use industry tools and frameworks such as Cocoa, Xcode, UIKit, Git, and more.
+* Understand and know how to properly use UIKit, asynchronous code, CoreImage, NSURLSession and JSON, MapKit and CoreLocation, AutoLayout, Source Control, Core Data, Animation, and the app submission process.
+* Create a successful online brand, network, create an impressive resume, succeed in personal and technical interviews, and conduct a successful job search.
+
+###Learn with Stacked Modules
+
+>Concepts in each of our courses are taught using stacked modules, where a new concept is introduced in each class session, building upon what came before it. This is a challenging style that requires persistence, practice, and collaboration, but allows more concepts to be introduced over the length of the course. This method helps students learn and retain more information in a short period of time. Learn more about stacked modules » (Links to an external site.)
+
+##5 Tips for Success
+Get ready to tackle some seriously ambitious material! You'll have the most success if you:
+  * Take notes during class
+  * Keep up with the daily assignments (code and reading)
+  * Research topics that are new or confusing
+  * Speak up when you're stuck for more than 15 minutes
+  * **AND:** Above all else, pay attention to details
+
+###Required Materials:
+
+* A Mac laptop running Yosemite with plenty of free space on the hard drive
+* [Xcode](https://developer.apple.com/xcode/download/) from the Mac App Store with the command line tools
+* [SourceTree](https://www.sourcetreeapp.com/)
+* [Dash](https://kapeli.com/dash)
+* A subscription to the [Apple Developer Program](https://developer.apple.com/) - $99/year
+* A [GitHub](https://github.com/) account
 
 ##Course Reminders:
   * Everyone will have 1 Project that they are responsible for building out through the duration of the course. Students will build and present their personal projects during Week 5 Project Week.
@@ -150,6 +183,7 @@ Objective-C Project Week Project Ideas...
 
 
 ##[Other Resources:](Resources/)
+* [This Course on Canvas](https://canvas.instructure.com/courses/996677)
 * [Prework Repository](https://github.com/codefellows/iOS401-prework)
 * [Homework Grading Standard](Resources/hw-grading-standard/)
 * [Whiteboarding Grading Standard](Resources/wb-grading-standard/)
