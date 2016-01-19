@@ -184,7 +184,7 @@ Objective-C Project Week Project Ideas...
 
 ##[Other Resources:](Resources/)
 * [This Course on Canvas](https://canvas.instructure.com/courses/996677)
-* [Prework Repository](https://github.com/codefellows/iOS401-prework)
+* [Prework Repository](https://github.com/codefellows/SEA-iOS-401d3-prework.git)
 * [Homework Grading Standard](Resources/hw-grading-standard/)
 * [Whiteboarding Grading Standard](Resources/wb-grading-standard/)
 * [Project Week Grading Standard](Resources/pw-grading-standard/)
