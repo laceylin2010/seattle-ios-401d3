@@ -1,8 +1,6 @@
 #iOS 401 
 The main repository for the 10 week iOS 401 Course.
 
-`Details:`
-
 >We’re delighted to have you as a member of our Code 401: Advanced Software Development in iOS course. It'll be a lot of work and a lot of fun.
 In this course you will study professional techniques and practices as you advance your skills in iOS development. This course includes professional development curriculum to get you ready for your job search, plus job search assistance after graduation.This is the course layout for the 401 iOS Course at Code Fellows.
 The first 4 weeks of the course we'll be studying Swift.
