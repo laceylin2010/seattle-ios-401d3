@@ -65,7 +65,6 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 
 ###[Week 1: ToDo List](week-1)
 > We will be building A ToDo List application to kick off the course!
-
   * [Class 1:](week-2/class-1) Variables, Numeric Types, Strings, Decisions, Functions, Closures, Optionals
   * [Class 2:](week-2/class-2) Arrays, Dictionaries, Sets
   * [Class 3:](week-2/class-3) Structures, Classes, Enums, Methods, Properties, POP
