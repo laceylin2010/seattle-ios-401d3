@@ -10,8 +10,7 @@
     * **Code Challenge:**
       *
     * **Bonus:**
-      *
-Declare a variable that’s function. Implement function to take in a string (name) and return greeting message
+      * Declare a variable that’s function. Implement function to take in a string (name) and return greeting message
   * [Class 2:](class-2/)
   	* Write a function that takes in an array of strings, checks if array contains “Earth”, if not, adds it otherwise returns
     * Use **reduce** to create single string from the above array. [“Venus”, “Earth”] would produce “Venus, Earth”
