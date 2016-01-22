@@ -67,16 +67,11 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 **This week:**
 > We will be building A ToDo List application to kick off the course!
 
-|[Class 1:](week-1/class-1)|[Class 2:](week-1/class-2)|[Class 3:](week-1/class-3)|[Class 4:](week-1/class-4)|[Class 5:](week-1/class-5)|
-|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:| 
-
-  * [Class 1:](week-1/class-1) *In Progress* **Ideas:** Overview of Course, XCode, Swift, Playgrounds, Properties and Variables
-  * [Class 2:](week-1/class-2) *In Progress* **Ideas:** Swift Control Flow, ViewController Lifecycle, Initializers
-  * [Class 3:](week-1/class-3) *In Progress* **Ideas:** MVC Review, POP Design Pattern, Classes and Structs
-  * [Class 4:](week-1/class-4) *In Progress* **Ideas:** Advanced Swift
-  * [Class 5:](week-1/class-5)  
-    * Group Whiteboarding
-    * **Guest Speakers:**
+|[Class 1](week-1/class-1)|[Class 2](week-1/class-2)|[Class 3](week-1/class-3)|[Class 4](week-1/class-4)|[Class 5](week-1/class-5)|
+|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:| 
+ 
+* Group Whiteboarding
+* **Guest Speakers:**
 
 
 ###[Week 2: Twitter Clone](week-2)
