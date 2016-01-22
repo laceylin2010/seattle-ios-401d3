@@ -40,6 +40,9 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 * A subscription to the [Apple Developer Program](https://developer.apple.com/) - $99/year
 * A [GitHub](https://github.com/) account
 
+####Required Textbook:
+* [Programming in Objective-C](http://www.amazon.com/gp/product/0321967607?keywords=programming%20in%20objective-c&qid=1453495920&ref_=sr_1_1&s=books&sr=1-1)
+
 ##Course Reminders:
   * Everyone will have 1 Project that they are responsible for building out through the duration of the course. Students will build and present their personal projects during Week 5 Project Week.
   * Every Week we will have individual or group ***Whiteboarding*** exercises on either Thursdays or Fridays depending on time constraints.
@@ -63,6 +66,11 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 ###[Week 1: ToDo List](week-1)
 **This week:**
 > We will be building A ToDo List application to kick off the course!
+
+|:--------------------:|:----------------:|:-------------------- |:----------------:|:--------------------:| 
+|[Class 1:](week-1/class-1)|[Class 2:](week-1/class-2)|[Class 3:](week-1/class-3)|[Class 4:](week-1/class-4)|[Class 5:](week-1/class-5)|
+|:--------------------:|:----------------:|:-------------------- |:----------------:|:--------------------:| 
+
   * [Class 1:](week-1/class-1) *In Progress* **Ideas:** Overview of Course, XCode, Swift, Playgrounds, Properties and Variables
   * [Class 2:](week-1/class-2) *In Progress* **Ideas:** Swift Control Flow, ViewController Lifecycle, Initializers
   * [Class 3:](week-1/class-3) *In Progress* **Ideas:** MVC Review, POP Design Pattern, Classes and Structs
