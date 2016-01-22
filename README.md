@@ -64,7 +64,6 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 ##Course Outline:
 
 ###[Week 1: ToDo List](week-1)
-**This week:**
 > We will be building A ToDo List application to kick off the course!
 
 |[Class 1](week-1/class-1)|[Class 2](week-1/class-2)|[Class 3](week-1/class-3)|[Class 4](week-1/class-4)|[Class 5](week-1/class-5)|
@@ -75,7 +74,6 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 
 
 ###[Week 2: Twitter Clone](week-2)
-**This week:**
 >We will build a Twitter Clone. Our Twitter clone will 
 utilize the Twitter API, Parse the returning JSON, and create the appropriate 
 Model objects. We will diplay the Tweets to the user.
@@ -88,7 +86,6 @@ Model objects. We will diplay the Tweets to the user.
     * **Guest Speakers:**
 
 ###[Week 3: Instagram Clone](week-3)
-**This week:**
 >We will build our own version of a photo filtering app. 
 We will utilize CoreImage to apply different filters to images taken with 
 the camera.
@@ -101,7 +98,6 @@ the camera.
     * **Guest Speakers:**
 
 ###[Week 4: GitHub Client](week-4)
-**This week:**
 > We will build our own GitHub Client that will.
 We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub API. 
   * [Class 1:](week-4/class-1) Custom App URL Schemes, OAuth, HTTP & Rest API, NSURLSession
@@ -114,7 +110,6 @@ We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub A
     * **Guest Speakers:**
 
 ####[Week 5: Project Week](week-5)
-**This week:**
 Students will pick the project they work build for this Project Week. This will be an individual project.
 
 ```
@@ -125,7 +120,6 @@ Swift Project Week Projects...
     * Etc...
 
 ###[Week 6: Understanding Objective-C](week-6)
-**This week:**
 > Students will be introduced to Objective-C and it's differences from Swift.
   * [Class 1:](week-6/class-1) **Ideas:** Primary Differences from Swift
   * [Class 2:](week-6/class-2) **Ideas:** Blocks vs Closures
@@ -136,7 +130,6 @@ Swift Project Week Projects...
     * **Guest Speakers:**
 
 ###[Week 7: Location Reminders](week-7)
-**This week:**
 >We will build a Reminders app that uses locations to create reminders. This
 application will utilize CoreLocation and MapKit.
   * [Class 1:](week-7/class-1) Objective-C, MapKit
@@ -148,7 +141,6 @@ application will utilize CoreLocation and MapKit.
     * **Guest Speakers:**
 
 ###[Week 8: Core Data Hotel](week-8)
-**This week:**
 >Students will be creating a Hotel Service, allowing them to book hotel rooms, see different hotels, etc.
   * [Class 1:](week-8/class-1) Programmatic Layout, Relational Databases, CoreData
   * [Class 2:](week-8/class-2) UIDatePicker, UIPickerView, Advanced Fetching
@@ -159,7 +151,6 @@ application will utilize CoreLocation and MapKit.
     * **Guest Speakers:**
 
 ###[Week 9: StackOverflow Client](week-9)
-**This week:**
 > We will create a StackOverflow Client.
   * [Class 1:](week-9/class-1) Container ViewControllers, OAuth with WebViews, NSError
   * [Class 2:](week-9/class-2) CocoaPods, AFNetworking, GCD
@@ -170,7 +161,6 @@ application will utilize CoreLocation and MapKit.
     * **Guest Speakers:**
     
 ####[Week 10: Project Week](week-10)
-**This week:**
 Instructors will pick the project Students work on for this Project Week.
 
 ```
