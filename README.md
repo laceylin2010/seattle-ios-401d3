@@ -129,6 +129,7 @@ Swift Project Week Projects...
   * [Class 5:](week-6/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
+      * Professional Development Talk - Time: TBD
 
 ###[Week 7: Location Reminders](week-7)
 >We will build a Reminders app that uses locations to create reminders. This
@@ -150,6 +151,7 @@ application will utilize CoreLocation and MapKit.
   * [Class 5:](week-8/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
+      * Professional Development Talk - Time: TBD
 
 ###[Week 9: StackOverflow Client](week-9)
 > We will create a StackOverflow Client.
