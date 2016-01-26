@@ -121,11 +121,11 @@ Swift Project Week Projects...
     * Etc...
 
 ###[Week 6: Understanding Objective-C](week-6)
-> Students will be introduced to Objective-C and it's differences from Swift.
-  * [Class 1:](week-6/class-1) **Ideas:** Primary Differences from Swift
-  * [Class 2:](week-6/class-2) **Ideas:** Blocks vs Closures
-  * [Class 3:](week-6/class-3) **Ideas:** ...
-  * [Class 4:](week-6/class-4) **Ideas:** ...
+> **TBD**
+  * [Class 1:](week-6/class-1) **TBD**
+  * [Class 2:](week-6/class-2) **TBD**
+  * [Class 3:](week-6/class-3) **TBD**
+  * [Class 4:](week-6/class-4) **TBD**
   * [Class 5:](week-6/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
