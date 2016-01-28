@@ -10,5 +10,5 @@
   *
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
+* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000b32xWGyEZ2_uIo33euNxTw#Week1_Day1)
