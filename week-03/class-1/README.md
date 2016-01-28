@@ -10,5 +10,5 @@
 	* Post action in the action controller that successfully uploads the current imageview’s image up to your Parse backend.
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [Lecture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()

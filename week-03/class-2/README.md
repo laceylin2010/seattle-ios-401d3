@@ -11,5 +11,5 @@
 	* Build model object to house image and metadata to create Parse object when the user hits publish.
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [Lecture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()
