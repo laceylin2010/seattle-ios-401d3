@@ -8,5 +8,5 @@
 	* Localize your app for another language (your pick).
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [lEcture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()

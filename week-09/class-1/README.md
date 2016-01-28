@@ -10,5 +10,5 @@
 * Demonstrate creating your own NSErrors.
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [lEcture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()

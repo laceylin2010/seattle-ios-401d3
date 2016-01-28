@@ -9,5 +9,5 @@
 	* Using Dispatch groups, show an alert view once all images have been downloaded (The downloads should be waterfall style, not lazy!).
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [lEcture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()

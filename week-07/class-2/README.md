@@ -9,5 +9,5 @@
 	* 
 	
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [Lecture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()

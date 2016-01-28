@@ -7,5 +7,5 @@
 	* Setup an application flow that allows you to query for room availability from a fromDate and toDate range. Users should be able to book a reservation based on the availability.
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [lEcture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()

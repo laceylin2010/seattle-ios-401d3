@@ -9,5 +9,5 @@
 	* Separate your core data setup into a separate CoreDataStack Class. 
 
 ##Other Resources
-* [Lecture Code](lecture-code/)
-* [lEcture Slides](lecture-slides/)
+* [Lecture Resources](lecture/)
+* [Lecture Slides]()
