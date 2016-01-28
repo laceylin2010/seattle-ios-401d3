@@ -65,11 +65,11 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 
 ###[Week 1: ToDo List](week-01)
 > We will be building A ToDo List application to kick off the course!
-  * [Class 1:](week-2/class-1) Variables, Numeric Types, Strings, Decisions, Functions, Closures, Optionals
-  * [Class 2:](week-2/class-2) Arrays, Dictionaries, Sets
-  * [Class 3:](week-2/class-3) Structures, Classes, Enums, Methods, Properties, POP
-  * [Class 4:](week-2/class-4) Error Handling, Generics, Functional Programming
-  * [Class 5:](week-2/class-5) 
+  * [Class 1:](week-01/class-1) Variables, Numeric Types, Strings, Decisions, Functions, Closures, Optionals
+  * [Class 2:](week-01/class-2) Arrays, Dictionaries, Sets
+  * [Class 3:](week-01/class-3) Structures, Classes, Enums, Methods, Properties, POP
+  * [Class 4:](week-01/class-4) Error Handling, Generics, Functional Programming
+  * [Class 5:](week-01/class-5) 
     * Group Whiteboarding
     * **Guest Speakers:**
 
@@ -78,11 +78,11 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 >We will build a Twitter Clone. Our Twitter clone will 
 utilize the Twitter API, Parse the returning JSON, and create the appropriate 
 Model objects. We will diplay the Tweets to the user.
-  * [Class 1:](week-2/class-1) MVC, Classes, Structs, JSON  
-  * [Class 2:](week-2/class-2) Accounts and Social Frameworks, HTTP Status Codes, Switch Statements, MainQueue
-  * [Class 3:](week-2/class-3) Autolayout, Passing Information between ViewControllers, Navigation Controller
-  * [Class 4:](week-2/class-4) Lazy Properties, Additional API Endpoints, Nibs/Xibs
-  * [Class 5:](week-2/class-5) 
+  * [Class 1:](week-02/class-1) MVC, Classes, Structs, JSON  
+  * [Class 2:](week-02/class-2) Accounts and Social Frameworks, HTTP Status Codes, Switch Statements, MainQueue
+  * [Class 3:](week-02/class-3) Autolayout, Passing Information between ViewControllers, Navigation Controller
+  * [Class 4:](week-02/class-4) Lazy Properties, Additional API Endpoints, Nibs/Xibs
+  * [Class 5:](week-02/class-5) 
     * Group Whiteboarding
     * **Guest Speakers:**
 
@@ -90,23 +90,23 @@ Model objects. We will diplay the Tweets to the user.
 >We will build our own version of a photo filtering app. 
 We will utilize CoreImage to apply different filters to images taken with 
 the camera.
-  * [Class 1:](week-3/class-1) Parse, Auto Layout(cont.), UIImagePickerController
-  * [Class 2:](week-3/class-2) Resizing Images, UIAlertController, CIFilters
-  * [Class 3:](week-3/class-3) UICollectionView, Lazy Load Images, Property Observers
-  * [Class 4:](week-3/class-4) UIPinchGestureRecogizer, Constraint Animations
-  * [Class 5:](week-3/class-5)
+  * [Class 1:](week-03/class-1) Parse, Auto Layout(cont.), UIImagePickerController
+  * [Class 2:](week-03/class-2) Resizing Images, UIAlertController, CIFilters
+  * [Class 3:](week-03/class-3) UICollectionView, Lazy Load Images, Property Observers
+  * [Class 4:](week-03/class-4) UIPinchGestureRecogizer, Constraint Animations
+  * [Class 5:](week-03/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
 
 ###[Week 4: GitHub Client](week-04)
 > We will build our own GitHub Client that will.
 We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub API. 
-  * [Class 1:](week-4/class-1) Custom App URL Schemes, OAuth, HTTP & Rest API, NSURLSession
-  * [Class 2:](week-4/class-2) Static Table View, KeyChain, Generics, Ternary Operator, App Delegate/Root ViewController, Big O
-  * [Class 3:](week-4/class-3)Animation in iOS, Transforms, Custom View Controller Transitions
-  * [Class 4:](week-4/class-4)WebView, Safari View Controller, REGEX and Input Validation, Swift Extensions
+  * [Class 1:](week-04/class-1) Custom App URL Schemes, OAuth, HTTP & Rest API, NSURLSession
+  * [Class 2:](week-04/class-2) Static Table View, KeyChain, Generics, Ternary Operator, App Delegate/Root ViewController, Big O
+  * [Class 3:](week-04/class-3)Animation in iOS, Transforms, Custom View Controller Transitions
+  * [Class 4:](week-04/class-4)WebView, Safari View Controller, REGEX and Input Validation, Swift Extensions
     * **PROJECT IDEAS:** Project ideas will be discussed and decided today. 
-  * [Class 5:](week-4/class-5)
+  * [Class 5:](week-04/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
 
@@ -122,11 +122,11 @@ Swift Project Week Projects...
 
 ###[Week 6: Understanding Objective-C](week-06)
 > **TBD**
-  * [Class 1:](week-6/class-1) **TBD**
-  * [Class 2:](week-6/class-2) **TBD**
-  * [Class 3:](week-6/class-3) **TBD**
-  * [Class 4:](week-6/class-4) **TBD**
-  * [Class 5:](week-6/class-5)
+  * [Class 1:](week-06/class-1) **TBD**
+  * [Class 2:](week-06/class-2) **TBD**
+  * [Class 3:](week-06/class-3) **TBD**
+  * [Class 4:](week-06/class-4) **TBD**
+  * [Class 5:](week-06/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
       * Professional Development Talk - Time: TBD
@@ -134,32 +134,32 @@ Swift Project Week Projects...
 ###[Week 7: Location Reminders](week-07)
 >We will build a Reminders app that uses locations to create reminders. This
 application will utilize CoreLocation and MapKit.
-  * [Class 1:](week-7/class-1) Objective-C, MapKit
-  * [Class 2:](week-7/class-2) Blocks, Objective-C Constants, CoreLocation, Mapp Annotations, Parse GeoPoints
-  * [Class 3:](week-7/class-3)Object Equality, PFSubclassing, MKMapViewDelegate, Notificaiton Center, App State, Local & Push Notifications.
-  * [Class 4:](week-7/class-4)Local Notifications, MKMapViewOverlay, PFUser, Linked Lists
-  * [Class 5:](week-7/class-5)
+  * [Class 1:](week-07/class-1) Objective-C, MapKit
+  * [Class 2:](week-07/class-2) Blocks, Objective-C Constants, CoreLocation, Mapp Annotations, Parse GeoPoints
+  * [Class 3:](week-07/class-3)Object Equality, PFSubclassing, MKMapViewDelegate, Notificaiton Center, App State, Local & Push Notifications.
+  * [Class 4:](week-07/class-4)Local Notifications, MKMapViewOverlay, PFUser, Linked Lists
+  * [Class 5:](week-07/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
 
 ###[Week 8: Core Data Hotel](week-08)
 >Students will be creating a Hotel Service, allowing them to book hotel rooms, see different hotels, etc.
-  * [Class 1:](week-8/class-1) Programmatic Layout, Relational Databases, CoreData
-  * [Class 2:](week-8/class-2) UIDatePicker, UIPickerView, Advanced Fetching
-  * [Class 3:](week-8/class-3) Unit Testing, TDD, NSFetchedResultsController, Existing Projects and CoreData
-  * [Class 4:](week-8/class-4)CoreData/Testing Swift, Version Migration, iCloud, Multiple Contexts, Binary Search Tree
-  * [Class 5:](week-8/class-5)
+  * [Class 1:](week-08/class-1) Programmatic Layout, Relational Databases, CoreData
+  * [Class 2:](week-08/class-2) UIDatePicker, UIPickerView, Advanced Fetching
+  * [Class 3:](week-08/class-3) Unit Testing, TDD, NSFetchedResultsController, Existing Projects and CoreData
+  * [Class 4:](week-08/class-4)CoreData/Testing Swift, Version Migration, iCloud, Multiple Contexts, Binary Search Tree
+  * [Class 5:](week-08/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
       * Professional Development Talk - Time: TBD
 
 ###[Week 9: StackOverflow Client](week-09)
 > We will create a StackOverflow Client.
-  * [Class 1:](week-9/class-1) Container ViewControllers, OAuth with WebViews, NSError
-  * [Class 2:](week-9/class-2) CocoaPods, AFNetworking, GCD
-  * [Class 3:](week-9/class-3) Memory Management & Balloons, App Distribution, Multiple Storyboards, KVO
-  * [Class 4:](week-9/class-4) Instruments & Stack Trace, Obj-c Runtime, Run Loops, Messaging *Nil*
-  * [Class 5:](week-9/class-5)
+  * [Class 1:](week-09/class-1) Container ViewControllers, OAuth with WebViews, NSError
+  * [Class 2:](week-09/class-2) CocoaPods, AFNetworking, GCD
+  * [Class 3:](week-09/class-3) Memory Management & Balloons, App Distribution, Multiple Storyboards, KVO
+  * [Class 4:](week-09/class-4) Instruments & Stack Trace, Obj-c Runtime, Run Loops, Messaging *Nil*
+  * [Class 5:](week-09/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
     
