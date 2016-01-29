@@ -11,5 +11,6 @@
 	* Build model object to house image and metadata to create Parse object when the user hits publish.
 
 ##Other Resources
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/000GnomDeFVINYs90NAZtUW9A#Week3-Class2)

@@ -9,5 +9,7 @@
 	* Separate your core data setup into a separate CoreDataStack Class. 
 
 ##Other Resources
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/000EblNZo8LLDRloxUiLhjJ8g#Week8-Class3)
+

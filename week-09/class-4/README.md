@@ -7,5 +7,6 @@
 	* 
 
 ##Other Resources
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/000UVA32oQygJmehkw5ObWxOQ#Week9-Class4)

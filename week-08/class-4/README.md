@@ -8,5 +8,6 @@
 	* Localize your app for another language (your pick).
 
 ##Other Resources
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/000R40CeQhusWJyRyYFJ-lkFw#Week8-Class4)

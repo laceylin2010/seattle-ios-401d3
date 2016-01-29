@@ -10,5 +10,6 @@
 * Demonstrate creating your own NSErrors.
 
 ##Other Resources
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/0007kkO6YjwAtMKqwwiNmlhNg#Week9-Class1)
