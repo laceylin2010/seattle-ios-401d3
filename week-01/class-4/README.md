@@ -10,6 +10,6 @@
   *
 
 ##Other Resources
-* [Grading Resources](Resources/)
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000gktvjdKKvbst_0KAXH4cgw#Week1_Day4)
