@@ -11,5 +11,6 @@
 	* 
 
 ##Other Resources
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/000BCuchaJz_V_77EsvfC1BTQ#Week2-Class2)

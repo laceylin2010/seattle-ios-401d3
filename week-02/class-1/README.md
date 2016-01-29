@@ -12,5 +12,6 @@ TweetJSONParser class.
 	* 
 
 ##Other Resources
+* [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/000zcDpBW724ge1h9b-xrUjMg#Week2-Class1)
