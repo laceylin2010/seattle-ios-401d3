@@ -8,6 +8,8 @@
   *
 * **Bonus:**
   *
+
 ##Other Resources
+* [Grading Resources](Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/000gktvjdKKvbst_0KAXH4cgw#Week1_Day4)
