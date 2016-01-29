@@ -3,6 +3,6 @@
 
 
 ##Other Resources
-* [Grading Resources](Resources/)
+* [Grading Resources](~/Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides]()
