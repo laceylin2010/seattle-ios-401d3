@@ -11,6 +11,7 @@ This will be followed with a week long project build by student teams and writte
 ##Instructional Staff
 * Michael Babiy, Lead Instructor, 
 * Adam Wallraff, Assistant Instructor
+* Roman Salazar, Teaching Assistant
 
 ###At the end of this course, you will be able to:
 
