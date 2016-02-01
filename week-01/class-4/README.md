@@ -9,6 +9,11 @@
 * **Bonus:**
   *
 
+###Assigned Reading
+* Error Handling
+* Generics
+* Functional Programming
+
 ##Other Resources
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)

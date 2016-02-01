@@ -9,6 +9,15 @@
 * **Bonus:**
   *
 
+###Assigned Readings:
+* Structures
+* Classes
+* Enumerations
+* Properties
+* Methods
+* Protocols
+* Protocol-oriented Programming
+
 ##Other Resources
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)

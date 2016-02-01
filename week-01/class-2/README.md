@@ -10,6 +10,9 @@
 * **Bonus:**
   *
 
+###Assigned Reading
+* 
+
 ##Other Resources
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
