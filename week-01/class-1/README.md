@@ -10,7 +10,7 @@
   *
 
 ###Reading Assingment
-* Swift Programming Guide
+* **Swift Programming Guide**
 	* Coding Essentials & Playground Basics
 	* Variables & Constants
 	* Numeric Types & Operations
