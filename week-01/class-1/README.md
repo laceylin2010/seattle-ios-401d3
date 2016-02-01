@@ -9,6 +9,19 @@
 * **Bonus:**
   *
 
+###Reading Assingment
+* Swift Programming Guide
+	* Coding Essentials & Playground Basics
+	* Variables & Constants
+	* Numeric Types & Operations
+	* Strings
+	* Making Decisions
+	* Repeating Steps
+	* Functions
+	* Closures
+	* Optionals
+	* Assigned Readings Assignments
+
 ##Other Resources
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
