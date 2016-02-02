@@ -10,6 +10,7 @@
 	* 
 
 ##Other Resources
+* [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000aOOWJw-UjWmly8gLEhhymQ#Week7-Class3)

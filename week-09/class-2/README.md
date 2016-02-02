@@ -9,6 +9,7 @@
 	* Using Dispatch groups, show an alert view once all images have been downloaded (The downloads should be waterfall style, not lazy!).
 
 ##Other Resources
+* [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000aZmpSznOit-MKVG2qWwAVw#Week9-Class2)

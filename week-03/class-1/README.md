@@ -10,6 +10,7 @@
 	* Post action in the action controller that successfully uploads the current imageview’s image up to your Parse backend.
 
 ##Other Resources
+* [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000-ZifTfHrHqfT5EVEFZ3UrA#Week3-Class1)

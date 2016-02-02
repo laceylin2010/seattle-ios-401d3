@@ -11,6 +11,7 @@
 	* 
 
 ##Other Resources
+* [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000rVCPV9Ae_QmwKtCm-I-XHw#Week2-Class3)

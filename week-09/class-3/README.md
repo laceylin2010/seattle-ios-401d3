@@ -8,6 +8,7 @@
 	* 
 
 ##Other Resources
+* [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000P80wi4TokLVnhVdqmMY2LA#Week9-Class3)
