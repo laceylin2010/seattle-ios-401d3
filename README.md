@@ -86,6 +86,7 @@ Model objects. We will diplay the Tweets to the user.
   * [Class 5:](week-02/class-5) 
     * Group Whiteboarding
     * **Guest Speakers:**
+      * John Clem - 10am
 
 ###[Week 3: Instagram Clone](week-03)
 >We will build our own version of a photo filtering app. 
