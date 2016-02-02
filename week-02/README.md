@@ -28,11 +28,10 @@ Model objects. We will diplay the Tweets to the user.
 	* If the tweet that was selected is a retweet, show the original tweet and the original user
 	* All of this information is available in the original JSON, you just have to go digging for it, and then add properties to your Tweet class accordingly.
   * [Class 4:](class-4/)
-  	*  Lazily download the user profile images for each tweet you display.
-	* In your single tweet view controller, upon clicking on the person's image (hint: change the image view to a button, buttons can have images) the app should push a 3rd view controller onto the stack
+  	* Lazily download the user profile images for each tweet you display.
+	* Implement a Simple Cache to check and see if an image you are about to download is already downloaded before doing a network call
+	* In your single tweet view controller, upon clicking on the person's image the app should push a 3rd view controller onto the stack.
 	* This 3rd view controller will show that user's timeline (the api url is "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name" but you will need to add a parameter to this url.
-	* Use a table view header view to mimic Twitter's layout of that screen (show their profile background image, their picture, their name, their location)
-	* Convert your table view cells to use a Nib, so you can share the same cell for both the home time line VC and the user Timeline VC
-	* Implement a Simple Cache to check and see if an image you are about to download is already downloaded before doing a network call.
+	* Convert your table view cells to use a Nib, so you can share the same cell for both the home timeline VC and the user Timeline VC
   * [Class 5:](class-5/)
   	* **Potential Guest Speakers:**
