@@ -6,12 +6,14 @@
 * Declare a dictionary of string values. Declare a function that takes in a string and searches dictionary for it. Use **filter**
 * Write examples for **union, intersect, subtract, exclusive** Or set operations
 * **Code Challenge:**
-  *
+	*
 * **Bonus:**
-  *
+	* 
 
 ###Assigned Reading
-* 
+* Arrays 
+* Dictionaries
+* Sets
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
