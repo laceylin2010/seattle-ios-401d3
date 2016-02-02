@@ -7,7 +7,7 @@
 * **Code Challenge:**
   *
 * **Bonus:**
-  * Declare a variable that’s function. Implement function to take in a string (name) and return greeting message
+  * Declare a variable that’s function. Implement function to take in a string (name) and return greeting message.
 
 ###Reading Assingment
 * **Swift Programming Guide**
