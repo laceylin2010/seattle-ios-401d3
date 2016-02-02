@@ -99,6 +99,7 @@ the camera.
   * [Class 5:](week-03/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
+      * Tuan Vu - Time:TBD
 
 ###[Week 4: GitHub Client](week-04)
 > We will build our own GitHub Client that will.
