@@ -8,6 +8,7 @@
 	* Localize your app for another language (your pick).
 
 ##Other Resources
+* [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000R40CeQhusWJyRyYFJ-lkFw#Week8-Class4)

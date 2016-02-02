@@ -23,6 +23,7 @@
 	* Assigned Readings Assignments
 
 ##Other Resources
+* [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000b32xWGyEZ2_uIo33euNxTw#Week1_Day1)
