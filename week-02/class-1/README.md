@@ -13,6 +13,14 @@
 * **Bonus:**
 	* 
 
+###Reading Assignment:
+* Model-View-Ccontroller (read up on the concept)
+* NSJSONSerialization
+* NSBundle
+* UITableView
+
+>For the Assigned readings, please utlize the Apple Docs, but read up on these topics in general to get a good understanding of them.
+
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Reading Assignments](../../Resources/ra-grading-standard/)
