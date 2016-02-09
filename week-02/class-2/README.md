@@ -10,7 +10,14 @@
 * **Code Challenge:** 
 	* 
 * **Bonus:**
-	* Write your code to be able to handle multiple twitter accounts.
+	* Write your code to be able to handle multiple twitter accounts.(10 Points!!)
+
+###Reading Assignment:
+* Concurency & NSOperationQueues(documentaiton / concepts)
+* Closures(Swift Book)
+* Accounts Frameworks Reference
+* Social Framework Refence 
+* [HTTP Response Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)

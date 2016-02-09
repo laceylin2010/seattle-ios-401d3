@@ -15,7 +15,7 @@ Model objects. We will diplay the Tweets to the user.
 	* Display those tweet objects in the table view, just the text for the tweet is fine today
 	* CODING CHALLENGE: Write a function that reverses an array
   * [Class 2:](class-2/)
-  	* Use the Accounts framework to access the user's twitter account on their iOS device
+	* Use the Accounts framework to access the user's twitter account on their iOS device
 	* Use the Social framework to make a request to twitter for the users home timeline
 	* Use the Social framework to make a request to twitter for logged in user and create your model User object
 	* Use a ranged switch statement to make sure the status code of the response is good
@@ -25,7 +25,8 @@ Model objects. We will diplay the Tweets to the user.
 	* **Code Challenge:** 
 		* 
 	* **Bonus:**
-		* Write your code to be able to handle multiple twitter accounts.
+		* Write your code to be able to handle multiple twitter accounts.(10 Points!!)
+* [HTTP Response Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
   * [Class 3:](class-3/)
   	* Setup your cells with autolayout so you can see the entire tweets text. If you get any .... at the end that is probably twitters API being stupid
 	* Create a 2nd view controller that shows an individual tweet in detail
