@@ -26,7 +26,6 @@ Model objects. We will diplay the Tweets to the user.
 		* 
 	* **Bonus:**
 		* Write your code to be able to handle multiple twitter accounts.(10 Points!!)
-* [HTTP Response Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
   * [Class 3:](class-3/)
   	* Setup your cells with autolayout so you can see the entire tweets text. If you get any .... at the end that is probably twitters API being stupid
 	* Create a 2nd view controller that shows an individual tweet in detail
