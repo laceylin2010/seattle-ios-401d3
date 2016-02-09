@@ -1,6 +1,7 @@
 #Week 2 - Class 2
 ##Homework
 * Use the Accounts framework to access the user's twitter account on their iOS device
+* Write your code to be able to handle multiple twitter accounts.
 * Use the Social framework to make a request to twitter for the users home timeline
 * Use the Social framework to make a request to twitter for logged in user and create your model User object
 * Use a ranged switch statement to make sure the status code of the response is good
