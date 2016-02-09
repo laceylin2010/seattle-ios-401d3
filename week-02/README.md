@@ -16,12 +16,16 @@ Model objects. We will diplay the Tweets to the user.
 	* CODING CHALLENGE: Write a function that reverses an array
   * [Class 2:](class-2/)
   	* Use the Accounts framework to access the user's twitter account on their iOS device
-  	* Write your code to be able to handle multiple twitter accounts.
 	* Use the Social framework to make a request to twitter for the users home timeline
 	* Use the Social framework to make a request to twitter for logged in user and create your model User object
 	* Use a ranged switch statement to make sure the status code of the response is good
 	* Reload the table view on the main thread (aka main queue) once you are done parsing the JSON data from the response
 	* Show the downloaded tweets on your table view
+	* In your JSONParser, make sure to create each Tweet on a different Queue.
+	* **Code Challenge:** 
+		* 
+	* **Bonus:**
+		* Write your code to be able to handle multiple twitter accounts.
   * [Class 3:](class-3/)
   	* Setup your cells with autolayout so you can see the entire tweets text. If you get any .... at the end that is probably twitters API being stupid
 	* Create a 2nd view controller that shows an individual tweet in detail
@@ -37,4 +41,4 @@ Model objects. We will diplay the Tweets to the user.
 	* This 3rd view controller will show that user's timeline (the api url is "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name" but you will need to add a parameter to this url.
 	* Convert your table view cells to use a Nib, so you can share the same cell for both the home time line VC and the user Timeline VC.
   * [Class 5:](class-5/)
-  	* **Potential Guest Speakers:**
+  	* **Guest Speakers:**
