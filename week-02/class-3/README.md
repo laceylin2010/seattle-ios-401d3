@@ -12,7 +12,7 @@
 	* 
 
 ###Reading Assignment:
-* Autolayout - https://developer.apple.com/library/watchos/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html
+* [Autolayout](https://developer.apple.com/library/watchos/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html)
 * UIActivityIndicator - documentation.
 * UINavigationController - documentation.
 * UIStoryboardSegue - documentation.
