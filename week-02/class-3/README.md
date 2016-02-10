@@ -4,7 +4,8 @@
 * Create a 2nd view controller that shows an individual tweet in detail
 * Upon clicking a tweet, your interface should push (which means you need a navigation controller) to the 2nd view controller and display the tweet selected, but with a few caveats:
 * If the tweet that was selected is a retweet, show the original tweet and the original user
-	* All of this information is available in the original JSON, you just have to go digging for it, and then add properties to your Tweet class accordingly.
+* All of this information is available in the original JSON, you just have to go digging for it, and then add properties to your Tweet class accordingly.
+* Create a ProfileViewController that when presented, shows the logged in user's timeline. Utilize the NavigationBar to add a button to present this new viewController.
 * **Code Challenge:** 
 	* 
 * **Bonus:**
