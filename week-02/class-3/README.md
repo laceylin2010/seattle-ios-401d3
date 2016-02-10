@@ -11,6 +11,13 @@
 * **Bonus:**
 	* 
 
+###Reading Assignment:
+* Autolayout - https://developer.apple.com/library/watchos/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html
+* UIActivityIndicator - documentation.
+* UINavigationController - documentation.
+* UIStoryboardSegue - documentation.
+* Describes the constraint-based system for laying out user interface elements.
+
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
