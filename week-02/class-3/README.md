@@ -13,9 +13,9 @@
 
 ###Reading Assignment:
 * [Autolayout](https://developer.apple.com/library/watchos/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html)
-* UIActivityIndicator - documentation.
-* UINavigationController - documentation.
-* UIStoryboardSegue - documentation.
+* [UIActivityIndicator](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivityIndicatorView_Class/index.html)
+* [UINavigationController](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UINavigationController_Class/index.html)
+* [UIStoryboardSegue](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIStoryboardSegue_Class/)
 * Describes the constraint-based system for laying out user interface elements.
 
 ##Other Resources
