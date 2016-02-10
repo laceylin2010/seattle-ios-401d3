@@ -18,11 +18,9 @@ of the images with the filters applied.
   	* Create an extension on UIImage that resizes an image to specified (passed in) parameters.
 	* Create Filters class and implement at least 3 filters. 
 		* To find out what filters are available, use this:
-
 			`for name in CIFilter.filterNamesInCategories(nil){            
 			print(name)
 			}`
-
 	* Create the ability to reset applied filter to the default image.
 	* Implement Save image to the Library (edited image).
 	* Implement upload of an image to CloudKit.
