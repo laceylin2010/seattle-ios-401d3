@@ -32,7 +32,7 @@ Model objects. We will diplay the Tweets to the user.
 	* Upon clicking a tweet, your interface should push (which means you need a navigation controller) to the 2nd view controller and display the tweet selected, but with a few caveats:
 	* If the tweet that was selected is a retweet, show the original tweet and the original user
 	* All of this information is available in the original JSON, you just have to go digging for it, and then add properties to your Tweet class accordingly.
-	* Create a ProfileViewController that when presented, shows the logged in user's timeline. Utilize the NavigationBar to add a button to present this new viewController.
+	* Create a ProfileViewController that when presented, shows the logged in user's profile information. Utilize the NavigationBar to add a button to present this new viewController.
   * [Class 4:](class-4/)
 	* Lazily download the user profile images for each tweet you display.
 	* Implement a Simple Cache to check and see if an image you are about to download is already downloaded before doing a network call
