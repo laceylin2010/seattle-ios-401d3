@@ -12,6 +12,12 @@
 * **Bonus:**
 	* 
 
+###Reading Assignment:
+* [UITableViewDelegate](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableViewDelegate_Protocol/index.html)
+* [Image Assets](https://developer.apple.com/library/prerelease/ios/documentation/Xcode/Reference/xcode_ref-Asset_Catalog_Format/)
+* [UINibs](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UINib_Ref/index.html)
+* Queue - Read up on Queue's as a datastructure.(Not NSOperationQueue)
+
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
