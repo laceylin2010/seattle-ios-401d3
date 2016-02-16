@@ -16,8 +16,14 @@
 * Build model object to house image and metadata to create CloudKit object when the user hits publish.
 * In your coding challenge playground, take a guess at who in class is a Snapchat POWER USER!(1 bonus point).
 
+###Reading Assignment:
+* [Core Image Programming Guide](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html)
+* Animating Constraints - Refresh on General Concepts
+* [CloudKit](https://developer.apple.com/library/ios/documentation/General/Conceptual/iCloudDesignGuide/DesigningforCloudKit/DesigningforCloudKit.html) - Refresh
+* [UITabBarController](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITabBarController_Class/index.html)
+
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides](https://www.icloud.com/keynote/000GnomDeFVINYs90NAZtUW9A#Week3-Class2)
+* [Lecture Slides](https://www.icloud.com/keynote/000yxFeYBoeFGLWxWz-FrIk8A#Week3_Day2)

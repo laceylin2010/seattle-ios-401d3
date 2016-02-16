@@ -5,14 +5,13 @@
 * Selecting a filtered thumbnail applies that filter to the current Image in the primary image view.
 * Add a pinch gesture recognizer to the GalleryViewController, which decreases/increases the item size upon pinching (use the scale property of the recognizer). Change layout interactively.
 * Create a custom protocol and delegate in order to communicate back image selection from GalleryViewController to the HomeViewControllerfor editing.
-* **Code Challenge:** 
-	* 
+* **Code Challenge:**
+	*
 * **Bonus:**
-	* 
-	
+	*
+
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
-* [Lecture Slides](https://www.icloud.com/keynote/000pPAU6BoCos4IH_91PHBzrQ#Week3-Class4)
-
+* [Lecture Slides](https://www.icloud.com/keynote/0001zoa8GaCs5kE3kHXGeH6eQ#Week4_Day4)
