@@ -1,15 +1,15 @@
 #Week 3 - Class 1
 ##Homework
 * Setup a new project, disable landscape.
-* Layout an Image view in the center of the screen using autolayout. 
+* Layout an Image view in the center of the screen using autolayout.
 * Layout: centerX, centerY + 10, width 0.94, height 0.82
-* Use the UIImagePickerController and its delegate to use the camera to set the image view’s image. 
+* Use the UIImagePickerController and its delegate to use the camera to set the image view’s image.
 * Add a toolbar with "+" button to your navigation controller that brings up ActionController if the device supports Camera and Photo Library, if not, simply present Photo library.
 * Start planning out your process, and developing a gameplan, for building your Personal Projects for Week 5 project week.
-* **Code Challenge:** 
+* **Code Challenge:**
 	* Write a function that determines how many words there are in a sentence
 * **Bonus:**
-	* Post action in the action controller that successfully uploads the current imageview’s image up to your Parse backend.
+	* Post action in the action controller that successfully uploads the current imageview’s image up to your CloudKit backend.
 
 ###Assigned Readings:
 
