@@ -1,14 +1,20 @@
 #Week 3 - Class 2
 ##Homework
-* Make sure you resize the image to something more suitable for a network upload before you post the image (600 * 600 should be okay) and populate imageView.
-* Create an action controller that has 3 - 4 different filters. This action controller should be presented by the tap of a button in the bottom center of the initial view controller.
-* Create FilterService class to generate / give you available filters.
-* Create at least 3 different filter methods on your FilterService class that filters the imageView’s image with the selected filter.
-* **Code Challenge:** 
-	* Write a function that returns all the odd elements of an array
+* Create an extension on UIImage that resizes an image to specified (passed in) parameters.
+* Create Filters class and implement at least 3 filters.
+* To find out what filters are available, use this:
+	`for name in CIFilter.filterNamesInCategories(nil){            
+	print(name)
+	}`
+* Create the ability to reset applied filter to the default image.
+* Implement Save image to the Library (edited image).
+* Implement upload of an image to CloudKit.
+* **Code Challenge:**
+* Write a function that returns all the odd elements of an array
 * **Bonus:**
-	* Add two extra filters
-	* Build model object to house image and metadata to create Parse object when the user hits publish.
+* Add two extra filters
+* Build model object to house image and metadata to create CloudKit object when the user hits publish.
+* In your coding challenge playground, take a guess at who in class is a Snapchat POWER USER!(1 bonus point).
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
