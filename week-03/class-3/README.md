@@ -3,8 +3,10 @@
 * Create a GalleryViewController with a collection view designed to show a bunch of photos.
 * Add a collection view to the interface.
 * Build a simple collection view layout.
-* Build a call to Parse to get all images uploaded yesterday and populate the collection view.
-* Use property observers to set collection view cell's imageviews, when downloaded (lazy load images)
+* Build a call to CloudKit to get all images uploaded yesterday and populate the collection view.
+* Use property observers to set collection view cell's imageViews, when downloaded (lazy load images)
+* Refactor your Filters class to be a singleton.
+	* This new singleton should also on have 1 instance of the context that we will reuse for each filter.
 * **Code Challenge:**
 	* Write a function that computes the list of the first 100 Fibonacci numbers.
 * **Bonus:**
