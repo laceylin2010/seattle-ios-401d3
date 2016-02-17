@@ -32,6 +32,7 @@ of the images with the filters applied.
     * Build model object to house image and metadata to create CloudKit object when the user hits publish.
     * In your coding challenge playground, take a guess at who in class is a Snapchat POWER USER!(1 bonus point).
   * [Class 3:](class-3/)
+    * Add a UITabBarController to your project.
     * Create a GalleryViewController with a collection view designed to show a bunch of photos.
     * Add a collection view to the interface.
     * Build a simple collection view layout.

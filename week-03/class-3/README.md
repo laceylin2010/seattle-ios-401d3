@@ -1,5 +1,6 @@
 #Week 3 - Class 3
 ##Homework
+* Add a UITabBarController to your project.
 * Create a GalleryViewController with a collection view designed to show a bunch of photos.
 * Add a collection view to the interface.
 * Build a simple collection view layout.
