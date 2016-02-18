@@ -11,7 +11,7 @@
 * **Code Challenge:**
 	* Write a function that computes the list of the first 100 Fibonacci numbers.
 * **Bonus:**
-	*
+	* Fetch records individually instead of all at once.
 
 ###Assigned Reading:
 * [UICollectionView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/index.html)
