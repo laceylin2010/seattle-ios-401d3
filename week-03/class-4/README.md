@@ -4,7 +4,8 @@
 * Show / Hide filter collection view in place of ActionSheetController.
 * Selecting a filtered thumbnail applies that filter to the current Image in the primary image view.
 * Add a pinch gesture recognizer to the GalleryViewController, which decreases/increases the item size upon pinching (use the scale property of the recognizer). Change layout interactively.
-* Create a custom protocol and delegate in order to communicate back image selection from GalleryViewController to the HomeViewControllerfor editing.
+* Create a custom protocol and delegate in order to communicate back image selection from GalleryViewController to the HomeViewController for editing.
+* Implement a SLComposeController to allow the user to post the filtered image to Twitter.
 * **Code Challenge:**
 	*
 * **Bonus:**
