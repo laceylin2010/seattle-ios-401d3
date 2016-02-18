@@ -77,7 +77,7 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 
 ###[Week 2: Twitter Clone](week-02)
 >We will build a Twitter Clone. Our Twitter clone will
-utilize the Twitter API, Parse the returning JSON, and create the appropriate
+utilize the Twitter API, CloudKit the returning JSON, and create the appropriate
 Model objects. We will diplay the Tweets to the user.
   * [Class 1:](week-02/class-1) MVC, Classes, Structs, JSON  
   * [Class 2:](week-02/class-2) Accounts and Social Frameworks, HTTP Status Codes, Switch Statements, MainQueue
@@ -92,7 +92,7 @@ Model objects. We will diplay the Tweets to the user.
 >We will build our own version of a photo filtering app.
 We will utilize CoreImage to apply different filters to images taken with
 the camera.
-  * [Class 1:](week-03/class-1) Parse, Auto Layout(cont.), UIImagePickerController
+  * [Class 1:](week-03/class-1) CloudKit, Auto Layout(cont.), UIImagePickerController
   * [Class 2:](week-03/class-2) Resizing Images, UIAlertController, CIFilters
   * [Class 3:](week-03/class-3) UICollectionView, Lazy Load Images, Property Observers
   * [Class 4:](week-03/class-4) UIPinchGestureRecogizer, Constraint Animations
@@ -139,7 +139,7 @@ Swift Project Week Projects...
 >We will build a Reminders app that uses locations to create reminders. This
 application will utilize CoreLocation and MapKit.
   * [Class 1:](week-07/class-1) Objective-C, MapKit
-  * [Class 2:](week-07/class-2) Blocks, Objective-C Constants, CoreLocation, Mapp Annotations, Parse GeoPoints
+  * [Class 2:](week-07/class-2) Blocks, Objective-C Constants, CoreLocation, Mapp Annotations, GeoPoints
   * [Class 3:](week-07/class-3)Object Equality, PFSubclassing, MKMapViewDelegate, Notificaiton Center, App State, Local & Push Notifications.
   * [Class 4:](week-07/class-4)Local Notifications, MKMapViewOverlay, PFUser, Linked Lists
   * [Class 5:](week-07/class-5)
