@@ -1,14 +1,18 @@
 ###Week 4: GitHub Client
 **This week:**
 >We will build our own GitHub Client that will.
-We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub API. 
+We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub API.
 
   * [Class 1:](class-1/)
-  	* Implement an OAuth workflow in your app that successfully lets the user authenticate with your app.
-	* Implement the NSUserDefaults to store the authorization token, so it only does the OAuth process once.
+  * Implement an OAuth workflow in your app that successfully lets the user authenticate with your app.
+	* Implement the Keychain to store the authorization token, so it only does the OAuth process once.
+	* Create a Personal Project requirement sheet.
+		* Specify the features of your app.
+		* Rough Navigation Model.
+  * **Code Challenge:**
+	* Given an array of ints of odd length, return a new array length 3 containing the elements from the middle of the array. The array length will be at least 3.
+  * **Bonus:**
 	* Create a github service and implement a method that fetches repositories based on a search term.
-	* **Code Challenge:**
-		* Given an array of ints of odd length, return a new array length 3 containing the elements from the middle of the array. The array length will be at least 3. 
   * [Class 2:](class-2/)
   	* Create / implement login screen. App should check to see if token exists before displaying / making a call to Github. If token does not exist, present login screen.
 	* Implement the ability to create new repositories using POST request. NOTE: Please make sure you include "repo" in your initial scope when requesting a token.
@@ -28,7 +32,7 @@ We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub A
 	* Implementent Regex in your app. Use it to validate the characters the user types into the search bar. Extend String with this functionality.
 	* Implement UIWebView in your app. When a user clicks on a repo, show their repo's web page with UIWebView.
 	* **Code Challenge:**
-		* Given a string, return a string where for every char in the original, there are two chars. 
+		* Given a string, return a string where for every char in the original, there are two chars.
 			* Example: doubleChar("The") → "TThhee"
   * [Class 5:](class-5/)
   	* **Potential Guest Speakers:**
