@@ -15,6 +15,7 @@
 * OAuth - slides.
 * HTTP & Rest API - slides.
 * [NSURLSession](https://developer.apple.com/library/prerelease/ios/documentation/Foundation/Reference/NSURLSession_class/index.html)
+* [Keychain](https://developer.apple.com/library/ios/documentation/Security/Reference/keychainservices/index.html)
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
