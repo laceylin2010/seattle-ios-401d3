@@ -23,11 +23,14 @@ We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub A
 	* **Bonus:**
 		*
   * [Class 3:](class-3/)
-  	* Create a table view in HomeViewController and populate it with repositories.
-	* Create ProfileViewController that will display User information. Build the UI similar to how it looks on Github.
-	* Implement a UISearchBar on your repo search view controller and modify your repo search fetch method on your network controller to use the search bar’s text. Be sure to only be making authenticated network calls using your oath token!
-	* **Code Challenge:**
-		* Given a non-negative number "num", return true if num is within 2 of a multiple of 10. Note: `(a % b)` is the remainder of dividing a by b, so `(7 % 5)` is 2
+  * Create a table view in HomeViewController and populate it with repositories.
+  * Create ProfileViewController that will display User information. Build the UI similar to how it looks on Github. Use UITabBarController.
+  * Implement a UISearchBar on your repo search view controller and implement repo search. Use UITabBarController. Be sure to only be making authenticated network calls using your oath token!
+  * Implement a '+' to be able to create new repository using a POST request.
+  * **Code Challenge:**
+  	* Given a non-negative number "num", return true if num is within 2 of a multiple of 10. Note: (a % b) is the remainder of dividing a by b, so (7 % 5) is 2
+  * **Bonus:**
+  	*
   * [Class 4:](class-4/)
   	*  Create a UserSearchViewController that searches for users, similar to how we are already searching for repositories. Instead of a table view, use a collection view to display the users avatar image.
 	* Upon clicking on a cell, implement a custom transition, and transition the image clicked on to a UserDetailViewController page that has their picture, name, and whatever other info you want pulled from their API.
