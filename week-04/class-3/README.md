@@ -9,6 +9,12 @@
 * **Bonus:**
 	*
 
+##Reading Assignment:
+* [Custom UIViewController Transitions](https://www.objc.io/issues/5-ios7/view-controller-transitions/)
+* [UIViewController Programming Guide](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457-CH2-SW1)
+* [UIView Animations Guide](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/AnimatingViews/AnimatingViews.html#//apple_ref/doc/uid/TP40009503-CH6-SW1)
+
+
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
