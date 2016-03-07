@@ -9,9 +9,8 @@
 	* Implement setters and getters.
 * Override the description instance method to have a nice print out of the student if need be.
 * Conform Student class to NSCoding protocol.
-* Implement initWithCoder:
-* Implement encodeWithCoder:
-
+* Implement `initWithCoder:`
+* Implement `encodeWithCoder:`
 * **Code Challenge:**
 	*
 * **Bonus:**
