@@ -1,6 +1,6 @@
 #Week 6 - Class 1
 ##Homework
-* Define a Student class with these VARIABLES:
+* Define a Student class with these VARIABLES
 	* _firstName, _lastName, _email, and _phone.
 	* Declare custom initializer that takes in required parameters.
 	* Declare setters and getters for each variable.
