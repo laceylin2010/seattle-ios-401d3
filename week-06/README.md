@@ -17,6 +17,10 @@
 	* **Code Challenge:**
 		*
   * [Class 2:](class-2/)
+    *
+	* **Code Challenge:**
+		*
+  * [Class 3:](class-3/)
     * Embed the ClassMatesViewController into the NavigationController.
     * Create a new vc called AddViewController. Define class method identifier:.
     * Add a new scene to the storyboard, set class & storyboard ID.
@@ -31,10 +35,6 @@
       * Create NSString+Additions file to simply check if string is a valid email address.
       * Create a category on Student that checks for valid student object.
     * Define AddViewControllerCompletion def in the AddViewController header.
-	* **Code Challenge:**
-		*
-  * [Class 3:](class-3/)
-  	*
 	* **Code Challenge:**
 		*
   * [Class 4:](class-4/)
