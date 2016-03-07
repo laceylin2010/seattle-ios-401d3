@@ -7,7 +7,11 @@
 	* if array, checks for object type and calculates how many time specific type is mentioned (if array contains 3 strings, NSLog = contains 3 strings)
 * Declare a simple protocol with optional and required methods. Name it whatever you like
 * Declare a class called Person. Extend (indirectly - subclass) this class. Add appropriate behavior to your subclass (Person -> Employee)
-
+* **Code Challenge:**
+	*
+* **Bonus:**
+	*
+	
 ###Reading Assignment:
 * Classes, Objects, and Methods
 * Data Types and Expressions
@@ -18,10 +22,6 @@
 * Variables and Data Types
 * Categories and Protocols
 * The Preprocessor
-* **Code Challenge:**
-	*
-* **Bonus:**
-	*
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
