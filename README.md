@@ -77,7 +77,11 @@ Get ready to tackle some seriously ambitious material! You'll have the most succ
 
 ###[Week 2: Twitter Clone](week-02)
 >We will build a Twitter Clone. Our Twitter clone will
+<<<<<<< HEAD
 utilize the Twitter API, CloudKit the returning JSON, and create the appropriate
+=======
+utilize the Twitter API, Parse the returning JSON, and create the appropriate
+>>>>>>> d9915cb161160e9267aa79ee21b57e5142eaebbf
 Model objects. We will diplay the Tweets to the user.
   * [Class 1:](week-02/class-1) MVC, Classes, Structs, JSON  
   * [Class 2:](week-02/class-2) Accounts and Social Frameworks, HTTP Status Codes, Switch Statements, MainQueue
@@ -126,10 +130,10 @@ Swift Project Week Projects...
 
 ###[Week 6: Understanding Objective-C](week-06)
 > **TBD**
-  * [Class 1:](week-06/class-1) **TBD**
-  * [Class 2:](week-06/class-2) **TBD**
-  * [Class 3:](week-06/class-3) **TBD**
-  * [Class 4:](week-06/class-4) **TBD**
+  * [Class 1:](week-06/class-1) Intro to Objective-C. Classes, Setters and Getters, Looping.
+  * [Class 2:](week-06/class-2)
+  * [Class 3:](week-06/class-3)
+  * [Class 4:](week-06/class-4)
   * [Class 5:](week-06/class-5)
     * Group Whiteboarding
     * **Guest Speakers:**
