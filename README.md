@@ -123,7 +123,7 @@ Swift Project Week Projects...
 
 ###[Week 6: Understanding Objective-C](week-06)
 > **TBD**
-  * [Class 1:](week-06/class-1) Intro to Objective-C. Classes, Setters and Getters.
+  * [Class 1:](week-06/class-1) Intro to Objective-C. Classes, Setters and Getters, Looping.
   * [Class 2:](week-06/class-2)
   * [Class 3:](week-06/class-3)
   * [Class 4:](week-06/class-4)

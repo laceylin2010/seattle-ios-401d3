@@ -2,48 +2,28 @@
 **This week:**
 >Introduction to the Objective-C language.
 
-  * [Class 1:](class-1/)
-    * Define a Student class with these VARIABLES
-    	* _firstName, _lastName, _email, and _phone.
-    	* Declare custom initializer that takes in required parameters.
-    	* Declare setters and getters for each variable.
-    	* Implement init{} that simply calls the designated initializer with empty strings as arguments.
-    	* Implement designated initializer.
-    	* Implement setters and getters.
-    * Override the description instance method to have a nice print out of the student if need be.
-    * Conform Student class to NSCoding protocol.
-    * Implement `initWithCoder:`
-    * Implement `encodeWithCoder:`
+* [Class 1:](class-1/)
+  * Create a category method on NSString that takes in itself and returns an array of words
+  * Write a method that takes in id type, checks if its NSNumber, NSString, NSArray and performs the following:
+    * if number, calculate the square root
+    * if string, reverses it
+    * if array, checks for object type and calculates how many time specific type is mentioned (if array contains 3 strings, NSLog = contains 3 strings)
+  * Declare a simple protocol with optional and required methods. Name it whatever you like
+  * Declare a class called Person. Extend (indirectly - subclass) this class. Add appropriate behavior to your subclass (Person -> Employee)
 	* **Code Challenge:**
 		*
-  * [Class 2:](class-2/)
-    *
+* [Class 2:](class-2/)
+  *
 	* **Code Challenge:**
 		*
-  * [Class 3:](class-3/)
-    * Embed the ClassMatesViewController into the NavigationController.
-    * Create a new vc called AddViewController. Define class method identifier:.
-    * Add a new scene to the storyboard, set class & storyboard ID.
-    * Add UIBarButton to the ViewController & create a segue to the AddViewController.
-    * Setup AddViewController scene with text fields for each model variable. Add "Save" button.
-    * Setup constraints,and outlets and actions.
-    * Add a table view to the ViewController, add an outlet to the View Controller class, and setup delegate and datasource for the table view.
-    * Implement datasource methods +++ -configureCellForIndexPath:
-    * Add Student property to the AddViewController.
-    * Override the getter for the student property.
-    * Implement saveButtonSelected:
-      * Create NSString+Additions file to simply check if string is a valid email address.
-      * Create a category on Student that checks for valid student object.
-    * Define AddViewControllerCompletion def in the AddViewController header.
+* [Class 3:](class-3/)
+  *
 	* **Code Challenge:**
 		*
-  * [Class 4:](class-4/)
-    * Create / add a function studentsFromRecords:completion: to the Student+Addition.h and StudentAdditions.m files.
-    * Create CouldBackupService.
-    * Run tests in viewDidLoad: to set for all possible options such as creation, deletion of Student records.
-    * Update StudentStore to include completions in `add:`, `remove:`, `removeItIndexPath:` methods.
-    * Implement creation / deletion of student records into the UI.
+* [Class 4:](class-4/)
+  *
 	* **Code Challenge:**
 		*
   * [Class 5:](class-5/)
   	* **Potential Guest Speakers:**
+      * Professional Development talk
