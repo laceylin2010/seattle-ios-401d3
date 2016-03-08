@@ -8,6 +8,14 @@
 * **Bonus:**
 	* make a private init to make a true singleton(5 Points)
 
+###Assigned Readings:
+* Foundation Framework
+* Numbers, Strings, and Collections
+* Working with Files(NSFileManager and NSData)
+* Memory Management and ARC
+* Copying Objects
+* Archiving
+
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
