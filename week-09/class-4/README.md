@@ -1,10 +1,9 @@
 #Week 9 - Class 4
-* Implement a binary search tree in objective-c
-* Create one of your classes in Swift, and use it side by side with your Objetive-c classes
-* **Code Challenge:** 
-	* 
-* **Bonus:** 
-	* 
+* Create one of your classes in Swift, and use it side by side with your Objetive-C classes
+* **Code Challenge:**
+	* Implement a binary search tree in objective-c
+* **Bonus:**
+	*
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
