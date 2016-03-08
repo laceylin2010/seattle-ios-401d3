@@ -13,9 +13,11 @@
 	* **Code Challenge:**
 		*
 * [Class 2:](class-2/)
-  *
-	* **Code Challenge:**
-		*
+  * Create a simple AddressBook app. See Book examples, but make sure to disable ARC.
+  * write your own userDefaults that uses JSON format
+  * manage your memory, create proper setters that retain/copy data when assigned(Dont use @property)
+  * **Bonus:**
+    * make a private init to make a true singleton(5 Points)
 * [Class 3:](class-3/)
   *
 	* **Code Challenge:**
