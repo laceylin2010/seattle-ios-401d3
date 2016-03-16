@@ -23,19 +23,19 @@ application will utilize CoreLocation and MapKit.
 		*
 
   * [Class 3:](class-3/)
-  	* Enable CloudKit to your project.
+    * Modify your LocationController to monitor regions  
   	* Add the ability to sign up and login to your app
-  	* Create the ability to sign into your app, and also sign out
-  	* Using Region monitoring  and schedule a location based reminder in the AddReminderDetailViewController
+    * Add a model class for your reminder by subclassing PFObject.
   	* Add a visual map annotation wherever a reminder is added.
+      * use MKCircle to present a map overlay.
 	* **Code Challenge:**
 		* Given a string, return the sum of the digits 0-9 that appear in the string, ignoring all other characters. Return 0 if there are no digits in the string.
-	* **Bonus:**
-		*
 
   * [Class 4:](class-4/)
- 	* Add local notifications when the user enters a region
- 	* Add a map overlay to show all of the currently monitored regions (load from Parse)
+    * Use Region monitoring and schedule a location based reminder in the AddReminderDetailViewController
+   	* Add local notifications when the user enters a region
+    * Upon creation of your reminder, upload to ParseServer.
+    * On first launch, your app should fetch all reminders and display on the mapView.
 	* **Code Challenge:**
 		* Implement a linked list
 	* **Bonus:**
